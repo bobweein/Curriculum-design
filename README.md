@@ -4,11 +4,11 @@ This is my Curriculum Design!
 
 
 
-<Numerical solution of differential equations > is a course teach me how to solve PDE equations.
+"Numerical solution of differential equations"  is a course teach me how to solve PDE equations.
 
 微分方程数值解  ： 学习如何设计求解微分方程的数值解。
 
-<Numerical analysis > is a course how to use computer to do numerical compute.
+"Numerical analysis " is a course how to use computer to do numerical compute.
 
 数值分析： 学习使用计算机去做插值拟合，以及积分等数学运算以及其中的数学原理。
 
